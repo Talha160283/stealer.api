@@ -1,0 +1,4 @@
+flask[async]
+requests
+motor
+python-dotenv
