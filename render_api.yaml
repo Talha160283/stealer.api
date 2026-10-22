@@ -7,5 +7,3 @@ services:
     envVars:
       - key: MONGO_URI
         sync: false
-      - key: PORT
-        value: 5000
